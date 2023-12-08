@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Techwolf78
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Wipro
+- 💞️ I’m looking to work as a javascript developer
 - 📫 How to reach me mrajaypawar207@gmail.com
 
 <!---
