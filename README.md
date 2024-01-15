@@ -69,13 +69,13 @@
 
 <p align="center">
   <a href="https://github.com/Techwolf78">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Ajay's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techwolf78&theme=radical&border=7F3FBF&background=0D1117" alt="Ajay's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Techwolf78">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Ajay's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techwolf78&theme=radical" alt="Ajay's GitHub Contribution"/>
   </a>
 </p>
 
