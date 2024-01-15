@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/ajay-pawar-9b5b81248/)" target="_blank">
+ <a href="(https://www.linkedin.com/in/ajay-pawar-9b5b81248/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajay"/>
 
  <a href="https://twitter.com/ajay_pawar78" target="_blank">
