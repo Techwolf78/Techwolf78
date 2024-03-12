@@ -10,7 +10,7 @@
   <samp>
     <a></a>
     <br>
-    「 I am a full stack java developer from <b>INDIA</b> 」
+    「 I am a full stack java developer  」
     <br>
     <br>
   </samp>
