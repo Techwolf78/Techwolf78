@@ -27,6 +27,9 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ajay" />
  </a> 
  <a href="https://www.facebook.com/ajay.never.207/" target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-20BEFF?&style=for-the-badge&logo=leetcode&logoColor=white" alt="ajay"  />
+  </a>
+ <a href="https://www.facebook.com/ajay.never.207/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ajay"  />
   </a> 
 </p>
