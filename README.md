@@ -26,7 +26,8 @@
  <a href="https://www.instagram.com/fr.ajay_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ajay" />
  </a> 
- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_PROFILE_URL_HERE)
+<a href="https://www.linkedin.com/in/ajay-pawar-9b5b81248/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajay"/>
 
  <a href="https://www.facebook.com/ajay.never.207/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ajay"  />
