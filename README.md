@@ -116,9 +116,9 @@
 <!-- 6. Option B: The High-Performance Engineer Section -->
 <table border="0" align="center" style="border: none; background: transparent; width: 100%;">
   <tr style="border: none; background: transparent;">
-    <!-- Left Side: Space Astronaut / Futuristic Coder -->
+    <!-- Left Side: Guaranteed Active Dev/Space Animation -->
     <td width="42%" align="center" valign="middle" style="border: none; padding: 10px;">
-      <img src="https://user-images.githubusercontent.com/74038190/216652418-47703866-de0d-456d-8b01-3837c7688235.gif" width="280px" alt="Space Engineer Coder"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="border-radius: 12px;" alt="High Performance Developer"/>
     </td>
     <!-- Right Side: High-Performance Engineering Lore -->
     <td width="58%" valign="middle" style="border: none; padding: 15px;">
