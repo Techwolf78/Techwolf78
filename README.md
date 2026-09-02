@@ -65,19 +65,19 @@
 <!-- Centered and Uniform Stats Grid -->
 <div align="center">
 
-  <!-- 1. Streak Stats (Full Width Centered) -->
+  <!-- 1. Streak Stats -->
   <a href="https://github.com/Techwolf78">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techwolf78&theme=radical&border=7F3FBF&background=0D1117" alt="Ajay's GitHub streak" width="80%"/>
   </a>
   <br/><br/>
 
-  <!-- 2. Profile Summary Card (Full Width Centered) -->
+  <!-- 2. Profile Summary Card -->
   <a href="https://github.com/Techwolf78">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techwolf78&theme=radical" alt="Ajay's GitHub Contribution" width="80%"/>
   </a>
   <br/><br/>
 
-  <!-- 3. Stats & Languages (Perfect Side-by-Side 2-Column Table) -->
+  <!-- 3. Stats & Languages Side-by-Side -->
   <table border="0" align="center" style="border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
       <td align="center" valign="middle" style="border: none; padding: 0 10px;">
@@ -95,11 +95,43 @@
 
   <br/>
 
-  <!-- 4. Contribution Snake (Full Width Centered) -->
+  <!-- 4. Contribution Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg" width="90%">
   </picture>
 
+  <br/><br/>
+
+  <!-- 5. Dynamic Typing SVG Below Snake -->
+  <a href="https://github.com/Techwolf78">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable%2C+high-performance+web+apps;Turning+complex+logic+into+clean+interfaces;Crafting+pixel-perfect+code+%26+modern+experiences;Always+shipping.+Always+optimizing." alt="Typing SVG" />
+  </a>
+
 </div>
+
+<br/><br/>
+
+<!-- 6. Option B: The High-Performance Engineer Section -->
+<table border="0" align="center" style="border: none; background: transparent; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <!-- Left Side: Space Astronaut / Futuristic Coder -->
+    <td width="42%" align="center" valign="middle" style="border: none; padding: 10px;">
+      <img src="https://user-images.githubusercontent.com/74038190/216652418-47703866-de0d-456d-8b01-3837c7688235.gif" width="280px" alt="Space Engineer Coder"/>
+    </td>
+    <!-- Right Side: High-Performance Engineering Lore -->
+    <td width="58%" valign="middle" style="border: none; padding: 15px;">
+      <h3>✦ THE CRAFT & SYSTEM</h3>
+      <p>
+        ◈ &nbsp; <b>Precision:</b> Pixel-perfect UI with fluid, responsive interactions.<br/><br/>
+        ◈ &nbsp; <b>Scalability:</b> Architecting clean, maintainable, production-grade systems.<br/><br/>
+        ◈ &nbsp; <b>Mindset:</b> Transforming complex problem domains into elegant, shipped products.<br/><br/>
+        ◈ &nbsp; <b>Velocity:</b> Rapid prototyping, continuous exploration & zero technical debt.<br/><br/>
+        <i>"Architecture is about the decisions you wish you could get right early on."</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
