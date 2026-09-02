@@ -81,5 +81,12 @@
   <br/>
 </a>
 
+<br/>
 
-![Ajay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Techwolf78&custom_title=Ajay%20Pawar's%20GitHub%20Activity%20Graph&theme=react-dark&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=F85D7F&area=true&area_color=7F3FBF&hide_border=false&border_color=7F3FBF)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
