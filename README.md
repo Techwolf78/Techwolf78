@@ -62,31 +62,44 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Techwolf78">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techwolf78&theme=radical&border=7F3FBF&background=0D1117" alt="Ajay's GitHub streak"/>
-  </a>
-</p>
+<!-- Centered and Uniform Stats Grid -->
+<div align="center">
 
-<p align="center">
+  <!-- 1. Streak Stats (Full Width Centered) -->
   <a href="https://github.com/Techwolf78">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techwolf78&theme=radical" alt="Ajay's GitHub Contribution"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techwolf78&theme=radical&border=7F3FBF&background=0D1117" alt="Ajay's GitHub streak" width="80%"/>
   </a>
-</p>
+  <br/><br/>
 
-<a> 
-    <a href="https://github.com/Techwolf78"><img alt="Ajay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Techwolf78&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-        
-  <a href="https://github.com/Techwolf78"><img alt="Ajay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Techwolf78&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <!-- 2. Profile Summary Card (Full Width Centered) -->
+  <a href="https://github.com/Techwolf78">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techwolf78&theme=radical" alt="Ajay's GitHub Contribution" width="80%"/>
+  </a>
+  <br/><br/>
+
+  <!-- 3. Stats & Languages (Perfect Side-by-Side 2-Column Table) -->
+  <table border="0" align="center" style="border: none; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td align="center" valign="middle" style="border: none; padding: 0 10px;">
+        <a href="https://github.com/Techwolf78">
+          <img alt="Ajay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Techwolf78&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="195px"/>
+        </a>
+      </td>
+      <td align="center" valign="middle" style="border: none; padding: 0 10px;">
+        <a href="https://github.com/Techwolf78">
+          <img alt="Ajay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Techwolf78&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="195px"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
   <br/>
-</a>
 
-<br/>
-
-<p align="center">
+  <!-- 4. Contribution Snake (Full Width Centered) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg" width="90%">
   </picture>
-</p>
+
+</div>
